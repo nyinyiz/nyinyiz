@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/nyinyi2aw" target="blank"><img src="https://img.shields.io/twitter/follow/nyinyi2aw?logo=twitter&style=for-the-badge" alt="nyinyi2aw" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nyi-nyi-zaw-2a8333153/details/projects/](https://www.linkedin.com/in/nyi-nyi-zaw-2a8333153/details/projects/)
+- 👨‍💻 This is about myself in 10 second [Here](https://nyinyiz.carrd.co/)
 
-- 📝 I regularly write articles on [https://medium.com/@nyinyizaw.dev](https://medium.com/@nyinyizaw.dev)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nyinyizaw.dev)
 
 - 💬 Ask me about **Android and Flutter development.**
 
 - 📫 How to reach me **nyinyizaw.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nyi-nyi-zaw-2a8333153/](https://www.linkedin.com/in/nyi-nyi-zaw-2a8333153/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nyi-nyi-zaw-2a8333153/)
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
