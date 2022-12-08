@@ -10,6 +10,8 @@
 
 - 👨‍💻 This is about myself in 10 second [Here](https://nyinyiz.carrd.co/)
 
+- 💼 You can download my updated resume [Here](https://drive.google.com/file/d/1wiY7XSXOvYDz3FJH1LPfr4i4mSJgu8yB/view?usp=sharing)
+
 - 📝 I regularly write articles on [Medium](https://medium.com/@nyinyizaw.dev)
 
 - 💬 Ask me about **Android and Flutter development.**
