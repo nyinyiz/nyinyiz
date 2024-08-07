@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nyi Nyi</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/nyinyiz/nyinyiz/blob/main/Resume.md">Nyi Nyi</a></h1>
 <h3 align="center">I am Android Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyinyiz&label=Profile%20views&color=0e75b6&style=flat" alt="nyinyiz" /> </p>
