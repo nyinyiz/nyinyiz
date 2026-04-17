@@ -13,13 +13,9 @@
 
 ## Engineering Focus
 
-- Building Android applications with Kotlin, modern architecture patterns, and a strong focus on reliability and maintainability.
-- Shipping production features across healthcare, media, transport, and platform products in collaborative product teams.
-- Working across Android and Flutter stacks, with experience in Firebase, messaging systems, payments, and mobile platform integrations.
-
-## Languages and Tools
-
-`Android` `Kotlin` `Java` `Flutter` `Firebase` `Git` `SQLite` `Postman`
+- Android engineer focused on Kotlin and modern app architecture.
+- Experience shipping production apps across healthcare, media, and transport.
+- Comfortable with Flutter, Firebase, payments, and messaging systems.
 
 ## GitHub Activity
 
